@@ -8,7 +8,9 @@ const App = () => {
 
     return (
         <div>
-            {/* component */}
+            <button>good</button>
+            <button>neautral</button>
+            <button>bad</button>
         </div>
     )
 }
